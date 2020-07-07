@@ -1,0 +1,2 @@
+variable applicationName { }
+variable applicationShortName { }
